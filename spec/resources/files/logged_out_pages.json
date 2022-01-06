@@ -1,6 +1,7 @@
 {
   "paths": [
     "/beta/sign_in",
-    "/beta/sign_up"
+    "/beta/sign_up",
+    "https://support.hopin.com/hc/en-us"
   ]
 }
