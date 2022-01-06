@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+gem 'axe-core-rspec'
+gem 'capybara'
+gem 'faker'
+gem 'json'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'webdrivers', '~> 4.0', require: false
