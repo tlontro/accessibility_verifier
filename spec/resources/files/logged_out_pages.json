@@ -2,6 +2,9 @@
   "paths": [
     "/beta/sign_in",
     "/beta/sign_up",
-    "https://support.hopin.com/hc/en-us"
+    "https://support.hopin.com/hc/en-us",
+    "/terms",
+    "https://hopin.com/standard-platform-terms",
+    "/privacy"
   ]
 }

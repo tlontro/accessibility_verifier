@@ -44,6 +44,7 @@ RSpec.configure do |_config|
                       else
                         'https://integration.hopin.com'
                       end
+
   at_exit do
     if $issues_found.any?
       dirname = Time.now.strftime('%Y-%m-%d_%H-%M-%S')
